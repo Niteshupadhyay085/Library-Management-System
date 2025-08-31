@@ -1,0 +1,44 @@
+{
+    "user": [
+  {
+    "id": 1,
+    "name": "Nitesh Upadhayay",
+    "email": "nitesh.upadhayay@example.com",
+    "role": "Admin",
+    "joinedDate": "2023-05-15",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Amit Sharma",
+    "email": "amit.sharma@example.com",
+    "role": "User",
+    "joinedDate": "2024-01-10",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "Priya Verma",
+    "email": "priya.verma@example.com",
+    "role": "User",
+    "joinedDate": "2024-03-22",
+    "isActive": false
+  },
+  {
+    "id": 4,
+    "name": "Rohit Singh",
+    "email": "rohit.singh@example.com",
+    "role": "Moderator",
+    "joinedDate": "2023-11-01",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "Sneha Gupta",
+    "email": "sneha.gupta@example.com",
+    "role": "User",
+    "joinedDate": "2024-05-30",
+    "isActive": true
+  }
+]
+}
